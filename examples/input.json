@@ -1,0 +1,13 @@
+{
+  "arrays": {
+    "small": [
+      1
+    ],
+    "ok": [
+      1,
+      2
+    ]
+  },
+  "minimum": 2,
+  "maximum": 3
+}
